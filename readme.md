@@ -4,13 +4,14 @@
 
 <p>Tecnologias utilizadas: React e Yarn. </p>
 
-## Como usar? ##
+## Preview ##
 
  <div align="center">
   <video width="320" height="240" controls>
-    <source src="challenge2.mp4" type="video/mp4">
+    <source src="challenge2.mp4" type="video/mp4" />
   Your browser does not support the video tag.
   </video>
+  <image src="to.do.png" label="to.do" />
  </div>
 
   &#xa0;
